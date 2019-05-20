@@ -11,15 +11,12 @@
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchUrl": "api/Todo",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "TodoApi": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "launchUrl": "api/Todo",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
